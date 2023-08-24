@@ -1,4 +1,5 @@
 # Ziad Attiya on August 22, 2023
+# code from OpenCV course - Full tutorial with Python freeCodeCamp.org
 
 import cv2 as cv
 
